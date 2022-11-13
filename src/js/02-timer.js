@@ -1,5 +1,6 @@
 import flatpickr from 'flatpickr';
 import Notiflix from 'notiflix';
+// import "flatpickr/dist/flatpickr.min.css";
 
 Notiflix.Report.init({
   svgSize: '48px',
